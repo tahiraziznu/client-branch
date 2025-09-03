@@ -1,3 +1,3 @@
-# client-branch
+# manual-branch
 
-- This is the client Branch created by client
+- This is the branch made by the client
